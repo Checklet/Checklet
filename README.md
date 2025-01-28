@@ -4,7 +4,9 @@
 
 ## Biography
 
-My name is Can Cekic. I am 24 years old, born 2000 in Germany and still living here. I am an aspiring programmer that works with a wide variety of frameworks and languages.
+My name is Can Cekic. *Checker* is an alias originating from my first IT teacher, who was not able to pronounce my name and it's based on child's show moderator *CheckerCan*.
+
+I am 24 years old, born 2000 in Germany and still living here. I am an aspiring programmer that works with a wide variety of frameworks and languages.
 
 ## Experience
 

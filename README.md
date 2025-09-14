@@ -1,20 +1,18 @@
-![](ven.png "This dork")
+![](banner.png "This dork")
 
 # ✨ Welcome to my profile! ✨
 
-### My name is Can Cekic. I am 24 years old, born in 2000 in Germany, and an aspiring programmer!
+### 24-year old aspiring programmer from Germany!
 
 And this is my little space where I share my software projects and workbench codes in, or where I sometimes work on things with friends.
 
-> 📑 **Sidenote:** *"Checker" is an alias originating from my first IT teacher, who was not able to pronounce my name and it's based on German child's show moderator "CheckerCan"*.
-
 ## How things started...
 
-My interest in programming started when I first came in contact with it as I went on a [Gymnasium](https://en.wikipedia.org/wiki/Gymnasium_(Germany) "Wikipedia article: German Gymnasium") back in 2016.
+Back when I was a [Gymnasium](https://en.wikipedia.org/wiki/Gymnasium_(Germany) "Wikipedia article: German Gymnasium") student in 2016, I first came in contact with the programming language [Java](https://www.java.com/en/ "Java Homepage") during that time and learned the basics of programming, alongside some rudimentary [Assembly](https://en.wikipedia.org/wiki/Assembly_language "Wikipedia article: Assembly").
 
-With an [apprenticeship](https://en.m.wikipedia.org/wiki/Apprenticeship_in_Germany "Wikipedia article: German apprenticeships") I started in 2022, I gained valuable insights in the active development of software projects in productive environments for the two and half years of my apprenticeship's duration.
+Following with an [apprenticeship](https://en.m.wikipedia.org/wiki/Apprenticeship_in_Germany "Wikipedia article: German apprenticeships"), I started in 2022, I gained valuable insights in the active development of software projects in productive environments for the two and half years where I worked for the company, mainly stepping into web developement using an [Angular](https://angular.dev/ "Angular Homepage") front-end accompanied with a back-end in [C#](https://dotnet.microsoft.com/en-us/languages/csharp "C# Homepage").
 
-Over the years until this day, I spend a lot of my free time programming as a form self-development, but mainly just because I am very interested in coding itself. 😊
+Over the years until this day, I spend a good portion of my free time programming as a form self-development, working on little projects that merely serve for testing out what a programming language can do and trying different things out.
 
 ## Other stuff I do
 
